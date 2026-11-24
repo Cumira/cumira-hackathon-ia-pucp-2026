@@ -1,4 +1,14 @@
-# Hackathon IA PUCP 2026 · Repositorio base
+# Cumira · Hackathon IA PUCP 2026
+
+Repositorio público de desarrollo del equipo, generado desde la plantilla oficial. Empezar por [INICIO_EQUIPO.md](INICIO_EQUIPO.md) para conocer el estado y las próximas tareas.
+
+**Estado inicial:** el notebook permite entrenar una CNN base; todavía no se han generado aquí pesos propios. La aplicación de ejemplo usa una interpolación de relleno que debemos reemplazar por el modelo final de Kaggle. Podemos mejorar el baseline o crear otro modelo.
+
+La guía de la plantilla se conserva a continuación. Las instrucciones para crear otro repositorio ya se completaron para este equipo. Antes de entregar, este README debe describir nuestro producto y sus pasos de reproducción.
+
+---
+
+## Guía original de la plantilla oficial
 
 **DSC PUCP × Grupo de Inteligencia Artificial PUCP (IA-PUCP)**
 
